@@ -8,7 +8,7 @@
 
 <a href="https://github.com/MrQuster/mq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mq-dark.svg"><img src="assets/project-mq-light.svg" width="49%" alt="mq"></picture></a>&nbsp;<a href="https://github.com/MrQuster/HyperPlay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperplay-dark.svg"><img src="assets/project-hyperplay-light.svg" width="49%" alt="HyperPlay"></picture></a>
 
-<a href="https://github.com/MrQuster/HyperBoost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperboost-dark.svg"><img src="assets/project-hyperboost-light.svg" width="49%" alt="HyperBoost"></picture></a>&nbsp;<a href="https://github.com/MrQuster/mq-firmware"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mq-firmware-dark.svg"><img src="assets/project-mq-firmware-light.svg" width="49%" alt="mq-firmware"></picture></a>
+<a href="https://github.com/MrQuster/HyperBoost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperboost-dark.svg"><img src="assets/project-hyperboost-light.svg" width="49%" alt="HyperBoost"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity · Активность"></picture>
 

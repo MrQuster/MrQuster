@@ -1,37 +1,25 @@
 {
- "key": "29a2b022",
+ "key": "904de9ae",
  "stars": 2,
- "contributions": 297,
- "repos": 7,
+ "contributions": 231,
+ "repos": 4,
  "followers": 1,
  "languages": [
-  [
-   "C++",
-   5201098
-  ],
-  [
-   "C",
-   4397723
-  ],
   [
    "Rust",
    4180752
   ],
   [
    "Kotlin",
-   1248120
+   1016966
   ],
   [
    "Python",
-   656456
+   78943
   ],
   [
-   "JavaScript",
-   352284
-  ],
-  [
-   "Objective-C",
-   237645
+   "WGSL",
+   12063
   ]
  ],
  "days": [
@@ -52,7 +40,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 11,
     "today": false
    },
@@ -79,7 +67,7 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 0,
     "day": 16,
     "today": false
    },
@@ -89,7 +77,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 4,
     "day": 18,
     "today": false
    },
@@ -126,7 +114,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 25,
     "today": true
    },
@@ -137,7 +125,7 @@
  ],
  "streak": {
   "current": 1,
-  "longest": 7
+  "longest": 5
  },
  "pins": [],
  "all": [
@@ -188,24 +176,6 @@
    "topics": []
   },
   {
-   "name": "mq-firmware",
-   "url": "https://github.com/MrQuster/mq-firmware",
-   "text": "MQ Firmware (custom fork of Bruce Firmware for ESP32-2432S028R)",
-   "fork": false,
-   "stars": 0,
-   "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "gameidk",
-   "url": "https://github.com/MrQuster/gameidk",
-   "text": "game",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
    "name": "mq",
    "url": "https://github.com/MrQuster/mq",
    "text": "Быстрый модульный лаунчер Minecraft для Linux и Windows на Rust с поддержкой Fabric, Quilt, Forge и NeoForge",
@@ -224,15 +194,6 @@
     "launcher",
     "linux"
    ]
-  },
-  {
-   "name": "mqblox",
-   "url": "https://github.com/MrQuster/mqblox",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
   }
  ]
 }
