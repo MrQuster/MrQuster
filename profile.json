@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "login": "MrQuster",
+  "seed": "#104080",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm · Привет, я",
+    "name": "MrQuster",
+    "subtitle": "Systems, Android & embedded developer.\nРазработка на Rust, Kotlin, Python и C++.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "brand:rust",
+        "label": "Rust"
+      },
+      {
+        "icon": "brand:kotlin",
+        "label": "Kotlin"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python"
+      },
+      {
+        "icon": "brand:cplusplus",
+        "label": "C++"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me · О себе",
+    "items": [
+      {
+        "icon": "deployed_code",
+        "label": "MQ Launcher in Rust (egui) / Лаунчер Minecraft на Rust"
+      },
+      {
+        "icon": "music_note",
+        "label": "Android audio & Liquid Glass UI (HyperPlay, HyperBoost)"
+      },
+      {
+        "icon": "terminal",
+        "label": "ESP32 firmware & embedded C++ / Прошивки для ESP32"
+      },
+      {
+        "icon": "bolt",
+        "label": "Linux, Android & desktop utilities / Утилиты и инструменты"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack · Стек",
+    "groups": [
+      {
+        "title": "Main · Основное",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Platforms · Платформы",
+        "items": [
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Tools · Инструменты",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "mq",
+      "HyperPlay",
+      "HyperBoost",
+      "mq-firmware"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity · Активность",
+    "stars": "Stars · Звёзды",
+    "contributions": "Contribs · Вклад",
+    "repos": "Repos · Репо",
+    "followers": "Followers",
+    "calendar": "Last 21 days · 21 день",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages · Языки",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak · Стрик",
+    "current": "Current · Текущий",
+    "longest": "Longest · Лучший",
+    "days": "days · дн."
+  },
+  "socials": {
+    "items": [],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories · Репозитории",
+        "url": "https://github.com/MrQuster?tab=repositories",
+        "style": "filled"
+      },
+      {
+        "icon": "star",
+        "label": "MQ Launcher",
+        "url": "https://github.com/MrQuster/mq",
+        "style": "tonal"
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+ "key": "2a85fa4",
+ "stars": 2,
+ "contributions": 295,
+ "repos": 6,
+ "followers": 1,
+ "languages": [
+  [
+   "C++",
+   5211232
+  ],
+  [
+   "C",
+   4397723
+  ],
+  [
+   "Rust",
+   4180752
+  ],
+  [
+   "Kotlin",
+   1557566
+  ],
+  [
+   "Python",
+   659028
+  ],
+  [
+   "JavaScript",
+   352284
+  ],
+  [
+   "Objective-C",
+   237645
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 48,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 48,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 40,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 7
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "HyperPlay",
+   "url": "https://github.com/MrQuster/HyperPlay",
+   "text": "Local music player for Android with Liquid Glass UI, 64-bit Biquad DSP, and Xiaomi Hyper Island support",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "audio-player",
+    "exoplayer",
+    "hyperos",
+    "jetpack-compose",
+    "kotlin",
+    "liquid-glass",
+    "media3",
+    "music-player",
+    "xiaomi"
+   ]
+  },
+  {
+   "name": "HyperBoost",
+   "url": "https://github.com/MrQuster/HyperBoost",
+   "text": "Volume booster and equalizer for Android with Xiaomi Hyper Island and Liquid Glass UI",
+   "fork": false,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "audio",
+    "hyperos",
+    "jetpack-compose",
+    "kotlin",
+    "liquid-glass",
+    "volume-booster"
+   ]
+  },
+  {
+   "name": "mq-firmware",
+   "url": "https://github.com/MrQuster/mq-firmware",
+   "text": "MQ Firmware (custom fork of Bruce Firmware for ESP32-2432S028R)",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "gameidk",
+   "url": "https://github.com/MrQuster/gameidk",
+   "text": "game",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "mq",
+   "url": "https://github.com/MrQuster/mq",
+   "text": "Быстрый модульный лаунчер Minecraft для Linux и Windows на Rust с поддержкой Fabric, Quilt, Forge и NeoForge",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "egui",
+    "minecraft",
+    "minecraft-launcher",
+    "modrinth",
+    "rust",
+    "ely-by",
+    "fabric",
+    "forge",
+    "launcher",
+    "linux"
+   ]
+  },
+  {
+   "name": "mqblox",
+   "url": "https://github.com/MrQuster/mqblox",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
