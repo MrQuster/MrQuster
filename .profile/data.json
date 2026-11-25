@@ -1,7 +1,7 @@
 {
- "key": "bccd6408",
+ "key": "1b036665",
  "stars": 5,
- "contributions": 233,
+ "contributions": 238,
  "repos": 4,
  "followers": 1,
  "languages": [
@@ -114,7 +114,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 10,
     "day": 25,
     "today": true
    },
@@ -167,8 +167,8 @@
    ]
   },
   {
-   "name": "mq",
-   "url": "https://github.com/MrQuster/mq",
+   "name": "MQ-Launcher",
+   "url": "https://github.com/MrQuster/MQ-Launcher",
    "text": "Быстрый модульный лаунчер Minecraft для Linux и Windows на Rust с поддержкой Fabric, Quilt, Forge и NeoForge",
    "fork": false,
    "stars": 1,
