@@ -109,7 +109,7 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "mq",
+      "MQ-Launcher",
       "HyperPlay",
       "HyperBoost"
     ],
@@ -152,7 +152,7 @@
       {
         "icon": "deployed_code",
         "label": "MQ Launcher",
-        "url": "https://github.com/MrQuster/mq",
+        "url": "https://github.com/MrQuster/MQ-Launcher",
         "style": "tonal"
       },
       {
