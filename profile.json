@@ -23,7 +23,7 @@
   "hero": {
     "greeting": "Hi, I'm · Привет, я",
     "name": "MrQuster",
-    "subtitle": "Systems, Android & embedded developer.\nРазработка на Rust, Kotlin, Python и C++.",
+    "subtitle": "Rust, Android & Python developer.\nРазработка на Rust, Kotlin и Python.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -38,10 +38,6 @@
       {
         "icon": "brand:python",
         "label": "Python"
-      },
-      {
-        "icon": "brand:cplusplus",
-        "label": "C++"
       }
     ]
   },
@@ -79,10 +75,6 @@
           {
             "icon": "brand:python",
             "label": "Python"
-          },
-          {
-            "icon": "brand:cplusplus",
-            "label": "C++"
           }
         ]
       },
@@ -149,6 +141,7 @@
     "card": true
   },
   "buttons": {
+    "card": true,
     "items": [
       {
         "icon": "book_2",
@@ -157,9 +150,15 @@
         "style": "filled"
       },
       {
-        "icon": "star",
+        "icon": "deployed_code",
         "label": "MQ Launcher",
         "url": "https://github.com/MrQuster/mq",
+        "style": "tonal"
+      },
+      {
+        "icon": "music_note",
+        "label": "HyperPlay",
+        "url": "https://github.com/MrQuster/HyperPlay",
         "style": "tonal"
       }
     ]
