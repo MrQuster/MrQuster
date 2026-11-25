@@ -57,10 +57,6 @@
         "label": "Android audio & Liquid Glass UI (HyperPlay, HyperBoost)"
       },
       {
-        "icon": "terminal",
-        "label": "ESP32 firmware & embedded C++ / Прошивки для ESP32"
-      },
-      {
         "icon": "bolt",
         "label": "Linux, Android & desktop utilities / Утилиты и инструменты"
       }
@@ -123,8 +119,7 @@
     "repos": [
       "mq",
       "HyperPlay",
-      "HyperBoost",
-      "mq-firmware"
+      "HyperBoost"
     ],
     "overrides": {},
     "empty": "No description yet.",
