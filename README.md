@@ -6,7 +6,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack · Стек"></picture>
 
-<a href="https://github.com/MrQuster/MQ-Launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mq-launcher-dark.svg"><img src="assets/project-mq-launcher-light.svg" width="32.5%" alt="MQ-Launcher"></picture></a>&nbsp;<a href="https://github.com/MrQuster/HyperPlay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperplay-dark.svg"><img src="assets/project-hyperplay-light.svg" width="32.5%" alt="HyperPlay"></picture></a>&nbsp;<a href="https://github.com/MrQuster/HyperBoost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperboost-dark.svg"><img src="assets/project-hyperboost-light.svg" width="32.5%" alt="HyperBoost"></picture></a>
+<a href="https://github.com/MrQuster/MQ-Launcher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mq-launcher-dark.svg"><img src="assets/project-mq-launcher-light.svg" width="49%" alt="MQ-Launcher"></picture></a>&nbsp;<a href="https://github.com/MrQuster/HyperPlay"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperplay-dark.svg"><img src="assets/project-hyperplay-light.svg" width="49%" alt="HyperPlay"></picture></a>
+
+<a href="https://github.com/MrQuster/HyperBoost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyperboost-dark.svg"><img src="assets/project-hyperboost-light.svg" width="49%" alt="HyperBoost"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity · Активность"></picture>
 
