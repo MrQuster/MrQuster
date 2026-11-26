@@ -1,13 +1,13 @@
 {
- "key": "93b5831c",
+ "key": "3e88f55c",
  "stars": 5,
- "contributions": 240,
+ "contributions": 243,
  "repos": 4,
  "followers": 1,
  "languages": [
   [
    "Rust",
-   4329173
+   4326097
   ],
   [
    "Kotlin",
@@ -119,7 +119,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 26,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 5
  },
  "pins": [
@@ -172,7 +172,7 @@
   {
    "name": "MQ-Launcher",
    "url": "https://github.com/MrQuster/MQ-Launcher",
-   "text": "Быстрый модульный лаунчер Minecraft для Linux и Windows на Rust с поддержкой Fabric, Quilt, Forge и NeoForge",
+   "text": "Быстрый модульный лаунчер Minecraft на Rust (Windows и Linux) · Fabric, Quilt, Forge, NeoForge · Modrinth & CurseForge · Discord RPC",
    "fork": false,
    "stars": 1,
    "language": "Rust",
@@ -231,7 +231,7 @@
   {
    "name": "MQ-Launcher",
    "url": "https://github.com/MrQuster/MQ-Launcher",
-   "text": "Быстрый модульный лаунчер Minecraft для Linux и Windows на Rust с поддержкой Fabric, Quilt, Forge и NeoForge",
+   "text": "Быстрый модульный лаунчер Minecraft на Rust (Windows и Linux) · Fabric, Quilt, Forge, NeoForge · Modrinth & CurseForge · Discord RPC",
    "fork": false,
    "stars": 1,
    "language": "Rust",
